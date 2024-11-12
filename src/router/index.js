@@ -9,6 +9,11 @@ const router = createRouter({
       name: 'home',
       component: HomeView
     },
+    {
+      path:'/ManagementPanel',
+      name:'ManagementPanel',
+      component:()=> import('../views/ManagePanel/ManagePanel.vue')
+    },
     // {
     //   path: '/about',
     //   name: 'about',
