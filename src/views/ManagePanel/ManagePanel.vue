@@ -1,7 +1,8 @@
 <script setup>
-// import DashboardPage from '../ManagePanel/dashboardPage.vue'
-// import MovieList from '../ManagePanel/MovieList.vue'
-import AddMovie from "../ManagePanel/AddMovie.vue"
+// import DashboardPage from './dashboardPage.vue'
+// import MovieList from './MovieList.vue'
+// import AddMovie from "./AddMovie.vue"
+import InFoReForm from "./InfoReForm.vue"
 
 </script>
 <template>
@@ -171,7 +172,8 @@ import AddMovie from "../ManagePanel/AddMovie.vue"
       <!--  -->
     <!-- <DashboardPage  /> -->
      <!-- <MovieList/> -->
-      <AddMovie/>
+      <!-- <AddMovie/> -->
+       <InFoReForm/>
 
 
   </main>

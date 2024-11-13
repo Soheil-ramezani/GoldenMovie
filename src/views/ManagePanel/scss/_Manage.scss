@@ -585,6 +585,16 @@ body::-webkit-scrollbar,
   .ReformInput {
     width: 50%;
   }
+  .ReFormBtn{
+    border: none;
+    border-radius: 20px;
+    width: 50%;
+    transition:  1s ease-in-out;
+  }
+  .ReFormBtn:hover{
+    background-color: var(--primary-red);
+  }
+ 
   /* users */
   .user,
   .UserDetails{
