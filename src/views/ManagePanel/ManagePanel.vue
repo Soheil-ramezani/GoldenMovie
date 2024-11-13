@@ -1,7 +1,7 @@
 <script setup>
 // import DashboardPage from '../ManagePanel/dashboardPage.vue'
 // import MovieList from '../ManagePanel/MovieList.vue'
-import ReForm from "../ManagePanel/ReForm.vue"
+import AddMovie from "../ManagePanel/AddMovie.vue"
 
 </script>
 <template>
@@ -162,8 +162,8 @@ import ReForm from "../ManagePanel/ReForm.vue"
       </div>
       <!--  -->
     </div>
-    <!-- sidebarBtn -->
-    <div class="sidebarShowBtn d-none justify-content-end align-items-start pt-4 " ref="hamburgerbtn">
+    <!-- sidebarBtn --> 
+    <div class="sidebarShowBtn d-none justify-content-end align-items-start pt-4 " style="min-width: 45px;" ref="hamburgerbtn">
         <button class="sidebarbtn p-2" @click="showSidebar()">
           <img src="../../assets/img/png_hrrys.png" alt="" />
         </button>
@@ -171,7 +171,7 @@ import ReForm from "../ManagePanel/ReForm.vue"
       <!--  -->
     <!-- <DashboardPage  /> -->
      <!-- <MovieList/> -->
-      <ReForm/>
+      <AddMovie/>
 
 
   </main>

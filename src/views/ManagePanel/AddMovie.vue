@@ -473,7 +473,7 @@
 
 <script>
 export default {
-name:"ReForm"
+name:"AddMovie"
 }
 </script>
 

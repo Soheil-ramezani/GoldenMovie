@@ -365,6 +365,7 @@ main {
 
 .sidebarShowBtn {
   background-color: var(--secondary-black);
+  min-width: 25px;
 }
 
 .sidebarbtn {
