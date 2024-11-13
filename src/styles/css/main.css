@@ -363,6 +363,10 @@ main {
   width: 0;
 }
 
+.sidebarShowBtn {
+  background-color: var(--secondary-black);
+}
+
 .sidebarbtn {
   background-color: var(--primary-black);
   border: none;

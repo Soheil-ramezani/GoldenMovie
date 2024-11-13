@@ -13,7 +13,7 @@ const router = createRouter({
       path:'/ManagementPanel',
       name:'ManagementPanel',
       component:()=> import('../views/ManagePanel/ManagePanel.vue')
-    },
+    }
     // {
     //   path: '/about',
     //   name: 'about',

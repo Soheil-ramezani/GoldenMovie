@@ -2,12 +2,6 @@
   <!-- dashboardPage -->
   <div class="dashboardPage w-100 h-100 gray-bg pt-4 pb-4">
     <div class="box-bg pt-2 p-3 mt-2 m-4 d-flex flex-column">
-      <!-- sidebarBtn -->
-      <div class="sidebarShowBtn d-none justify-content-end align-items-center" id="hamburgerbtn">
-        <button class="sidebarbtn p-2" onclick="showSidebar()">
-          <img src="./assets/png_hrrys.png" alt="" />
-        </button>
-      </div>
       <!-- statistics -->
       <div class="MediasNums d-flex justify-content-around align-items-center">
         <!-- movies -->
@@ -36,7 +30,7 @@
       <div
         class="userEnters custom-box-shadow d-flex align-items-center justify-content-center box-bg pt-4 pb-4 m-3"
       >
-        <canvas id="myChart" class="myChart"></canvas>
+        <canvas ref="myChart" class="myChart"></canvas>
       </div>
       <!-- new users and mediasChart  -->
       <div class="dashboard-footer mt-5 d-flex justify-content-around align-items-center">
@@ -46,7 +40,7 @@
         >
           <h3 class="white-text">کاربران جدید</h3>
           <hr class="mb-3 mt-2" />
-          <div class="NewUsers w-100" id="NewUserList"></div>
+          <div class="NewUsers w-100" ref="NewUserList"></div>
         </div>
       </div>
     </div>
@@ -59,7 +53,7 @@ import { Chart, registerables } from 'chart.js'
 Chart.register(...registerables)
 
 export default {
-  name: 'MyChart',
+  name: 'DashboardPage',
   //   data
   data() {
     return {
@@ -87,6 +81,7 @@ export default {
       //   *****************************
       // newUsers
       NewUserList: document.getElementById('NewUserList'),
+   
       newUserElem:null,
     }
   },
@@ -117,12 +112,12 @@ export default {
             </lord-icon>
                </div> 
             <!-- user name -->
-             <span class="white-text m-2 col-4">${this.user.firstName + this.user.lastName}</span>
-             <span class="white-text m-2 col-6">${this.user.email}</span>
+             <span class="white-text m-2 col-4">${user.firstName + user.lastName}</span>
+             <span class="white-text m-2 col-6">${user.email}</span>
              
             
             </div>`
-     this.NewUserList.insertAdjacentHTML('beforeend', this.newUserElem)
+     this.$refs.NewUserList.insertAdjacentHTML('beforeend', this.newUserElem)
     }
   },
   mounted() {
@@ -137,10 +132,10 @@ export default {
           firstName: user.firstName,
           lastName: user.lastName,
           email: user.email
-        }))
+        })) 
         const randomNum = Math.floor(Math.random() * 15)
         const newUsersList = users.slice(0, randomNum)
-        newUsersList.map((user) => this.ShowNewUsers(user))
+         newUsersList.map((user) => this.ShowNewUsers(user))
       })
       .catch((error) => console.error('Error fetching users:', error))
   },

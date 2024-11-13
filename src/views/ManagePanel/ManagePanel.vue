@@ -1,3 +1,6 @@
+<script setup>
+import DashboardPage from '../ManagePanel/dashboardPage.vue'
+</script>
 <template>
   <main class="d-flex flex-lg-row-reverse flex-xl-row-reverse">
     <!-- sidebar -->
@@ -156,14 +159,21 @@
       </div>
       <!--  -->
     </div>
-    <!-- link -->
-    <RouterView />
+    <!-- sidebarBtn -->
+    <div class="sidebarShowBtn d-none justify-content-end align-items-start pt-4 " ref="hamburgerbtn">
+        <button class="sidebarbtn p-2" @click="showSidebar()">
+          <img src="../../assets/img/png_hrrys.png" alt="" />
+        </button>
+      </div>
+      <!--  -->
+    <DashboardPage  />
   </main>
 </template>
 
 <script>
-import '../ManagePanel/dashboardPage.vue'
+
 export default {
+  name:'ManagePanel',
   data() {
     return {
       showSidebarBtn:false
@@ -174,8 +184,8 @@ export default {
     showSidebar() {
       this.$refs.sideBar.classList.toggle('showSidebar')
       this.$refs.sideBar.classList.toggle('d-none')
-      this.$refs.hamburgerBtn.classList.toggle('d-flex')
-      this.$refs.hamburgerBtn.classList.toggle('d-none')
+      this.$refs.hamburgerbtn.classList.toggle('d-flex')
+      this.$refs.hamburgerbtn.classList.toggle('d-none')
 
       if(this.showSidebarBtn===false){
         this.showSidebarBtn= true
