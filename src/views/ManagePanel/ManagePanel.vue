@@ -1,5 +1,6 @@
 <script setup>
-import DashboardPage from '../ManagePanel/dashboardPage.vue'
+// import DashboardPage from '../ManagePanel/dashboardPage.vue'
+import MovieList from '../ManagePanel/MovieList.vue'
 </script>
 <template>
   <main class="d-flex flex-lg-row-reverse flex-xl-row-reverse">
@@ -166,7 +167,9 @@ import DashboardPage from '../ManagePanel/dashboardPage.vue'
         </button>
       </div>
       <!--  -->
-    <DashboardPage  />
+    <!-- <DashboardPage  /> -->
+     <MovieList/>
+
   </main>
 </template>
 
