@@ -13,6 +13,10 @@ const router = createRouter({
       path:'/ManagementPanel',
       name:'ManagementPanel',
       component:()=> import('../views/ManagePanel/ManagePanel.vue')
+    },{
+      path:'/LogIn',
+      name:'LogIn',
+      component:()=>import('../views/login/loginForm.vue')
     }
     // {
     //   path: '/about',
