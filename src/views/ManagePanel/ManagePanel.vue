@@ -1,9 +1,9 @@
 <script setup>
-// import DashboardPage from './dashboardPage.vue'
-// import MovieList from './MovieList.vue'
-// import AddMovie from "./AddMovie.vue"
-// import InFoReForm from "./InfoReForm.vue"
-import UsersList from "./UsersList.vue"
+import DashboardPage from './DashBoard/dashboardPage.vue'
+import MovieList from './MovieList/MovieList.vue'
+import AddMovie from "./AddMovie/AddMovie.vue"
+import InFoReForm from "./InfoReForm/InfoReForm.vue"
+import UsersList from "./UserList/UsersList.vue"
 
 </script>
 <template>
@@ -47,6 +47,7 @@ import UsersList from "./UsersList.vue"
         >
           <button
             class="SideBarBtn box-bg p-3 text-center justify-content-center align-items-center"
+            @click="ChangeMainPage(DashboardPage)"
           >
             <span class="white-text SideBarSpan">داشبورد</span>
             <lord-icon
@@ -81,7 +82,7 @@ import UsersList from "./UsersList.vue"
           <div
             class="SideBarLink w-100 mt-3 mb-2 d-flex flex-column align-items-center justify-content-center"
           >
-            <button class="SideBarBtn box-bg p-2">
+            <button class="SideBarBtn box-bg p-2"  @click="ChangeMainPage(AddMovie)">
               <span class="white-text SideBarSpan">افزودن فیلم و سریال</span>
             </button>
           </div>
@@ -89,7 +90,7 @@ import UsersList from "./UsersList.vue"
           <div
             class="SideBarLink w-100 mt-3 mb-2 d-flex flex-column align-items-center justify-content-center"
           >
-            <button class="SideBarBtn box-bg p-2">
+            <button class="SideBarBtn box-bg p-2"  @click="ChangeMainPage(MovieList)">
               <span class="white-text SideBarSpan"> لیست فیلم ها و سریال ها</span>
             </button>
           </div>
@@ -116,7 +117,7 @@ import UsersList from "./UsersList.vue"
         <div
           class="SideBarLink w-100 mt-3 mb-2 d-flex flex-column align-items-end justify-content-center"
         >
-          <button class="SideBarBtn box-bg p-2">
+          <button class="SideBarBtn box-bg p-2" @click="ChangeMainPage(UsersList)" >
             <span class="white-text SideBarSpan"> کاربران</span>
             <lord-icon
               src="https://cdn.lordicon.com/knzzcfyy.json"
@@ -148,7 +149,7 @@ import UsersList from "./UsersList.vue"
         <div
           class="SideBarLink w-100 mt-3 mb-4 d-flex flex-column align-items-end justify-content-center"
         >
-          <button class="SideBarBtn box-bg p-2">
+          <button class="SideBarBtn box-bg p-2"  @click="ChangeMainPage(InFoReForm)">
             <span class="white-text SideBarSpan">ویرایش اطلاعات</span>
             <lord-icon
               src="https://cdn.lordicon.com/exymduqj.json"
@@ -171,26 +172,31 @@ import UsersList from "./UsersList.vue"
         </button>
       </div>
       <!--  -->
-    <!-- <DashboardPage  /> -->
-     <!-- <MovieList/> -->
-      <!-- <AddMovie/> -->
-       <!-- <InFoReForm/> -->
-        <UsersList/>
-
+    <DashboardPage v-if="ShowingPage=='DashboardPage'" />
+     <MovieList v-if="ShowingPage=='MovieList'" />
+      <AddMovie v-if="ShowingPage=='AddMovie'" />
+       <InFoReForm v-if="ShowingPage=='InFoReForm'" />
+        <UsersList v-if="ShowingPage=='UsersList'"/>
   </main>
 </template>
 
 <script>
 
 export default {
-  name:'ManagePanel',
+  name:'ManagementPanel',
   data() {
     return {
-      showSidebarBtn:false
+      showSidebarBtn:false,
+      ShowingPage: "DashboardPage"
     }
   },
   // functions
   methods: {
+    ChangeMainPage(ComponentName){
+      console.log(ComponentName.name)
+      this.ShowingPage=ComponentName.name
+    
+    },
     showSidebar() {
       this.$refs.sideBar.classList.toggle('showSidebar')
       this.$refs.sideBar.classList.toggle('d-none')
