@@ -2,7 +2,8 @@
 // import DashboardPage from './dashboardPage.vue'
 // import MovieList from './MovieList.vue'
 // import AddMovie from "./AddMovie.vue"
-import InFoReForm from "./InfoReForm.vue"
+// import InFoReForm from "./InfoReForm.vue"
+import UsersList from "./UsersList.vue"
 
 </script>
 <template>
@@ -164,7 +165,7 @@ import InFoReForm from "./InfoReForm.vue"
       <!--  -->
     </div>
     <!-- sidebarBtn --> 
-    <div class="sidebarShowBtn d-none justify-content-end align-items-start pt-4 " style="min-width: 45px;" ref="hamburgerbtn">
+    <div class="sidebarShowBtn d-none justify-content-end align-items-start pt-4 " ref="hamburgerbtn" style="min-width: 45px;">
         <button class="sidebarbtn p-2" @click="showSidebar()">
           <img src="../../assets/img/png_hrrys.png" alt="" />
         </button>
@@ -173,8 +174,8 @@ import InFoReForm from "./InfoReForm.vue"
     <!-- <DashboardPage  /> -->
      <!-- <MovieList/> -->
       <!-- <AddMovie/> -->
-       <InFoReForm/>
-
+       <!-- <InFoReForm/> -->
+        <UsersList/>
 
   </main>
 </template>
