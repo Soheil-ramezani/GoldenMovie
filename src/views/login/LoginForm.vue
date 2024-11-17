@@ -27,7 +27,7 @@
                         <span>رمز ورود</span>
                       </div>
 
-                      <a href="#" class="button mt-4">ثبت</a>
+                      <a href="#" class="button mt-2">ثبت</a>
                       <p class="mb-0 mt-4 text-center">
                         <a href="#0" class="link">فراموشی رمز ورود</a>
                       </p>

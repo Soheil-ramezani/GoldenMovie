@@ -4,6 +4,7 @@ import MovieList from './MovieList/MovieList.vue'
 import AddMovie from "./AddMovie/AddMovie.vue"
 import InFoReForm from "./InfoReForm/InfoReForm.vue"
 import UsersList from "./UserList/UsersList.vue"
+import UsersTickets from "./tickets/UsersTickets.vue"
 
 </script>
 <template>
@@ -100,7 +101,7 @@ import UsersList from "./UserList/UsersList.vue"
         <div
           class="SideBarLink w-100 mt-3 mb-2 d-flex flex-column align-items-end justify-content-center"
         >
-          <button class="SideBarBtn box-bg p-2">
+          <button class="SideBarBtn box-bg p-2" @click="ChangeMainPage(UsersTickets)">
             <span class="white-text SideBarSpan">تیکت ها</span>
             <lord-icon
               src="https://cdn.lordicon.com/jdgfsfzr.json"
@@ -177,6 +178,7 @@ import UsersList from "./UserList/UsersList.vue"
       <AddMovie v-if="ShowingPage=='AddMovie'" />
        <InFoReForm v-if="ShowingPage=='InFoReForm'" />
         <UsersList v-if="ShowingPage=='UsersList'"/>
+        <UsersTickets v-if="ShowingPage=='UsersTickets'" />
   </main>
 </template>
 
