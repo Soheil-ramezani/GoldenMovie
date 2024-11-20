@@ -1,13 +1,18 @@
 <script setup>
+import HomeMain from './main/HomeMain.vue';
+
 // import MainFooter from './footer/MainFooter.vue'
-import MainHeader from './header/MainHeader.vue'
+import MainHeader from './header/HomeHeader.vue'
 </script>
 <!--  -->
 <template>
-  <main class="rtl home blog dark selectable DigiMedia"  ref="top"  data-aos-easing="ease"  data-aos-duration="400"  data-aos-delay="0">
-    <MainHeader />
+   <div class="SiteContainer">
+     <MainHeader />
+    <HomeMain/>
     <!-- <MainFooter /> -->
-  </main>
+  
+   </div>
+   
 </template>
 
 <script>
