@@ -52,7 +52,7 @@
           <div class="header-info d-flex w-100 align-items-center h-100">
             <div class="site-logo position-relative d-inline-block h-100">
               <a  href="/"  title="دیجی مدیا"  class="w-100 d-flex align-items-center justify-content-center h-100">
-                <img  src="../../../assets/img/Untitled-1 y.png"  alt="دیجی مدیا"  class="dark d-block"  style="height: 50px"/>
+                <img  src="../../assets/img/Untitled-1 y.png"  alt="دیجی مدیا"  class="dark d-block"  style="height: 50px"/>
               </a>
             </div>
             <nav  class="header-nav-info h-100 d-flex align-items-center justify-content-between position-relative">

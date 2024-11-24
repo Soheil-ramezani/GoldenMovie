@@ -8,7 +8,7 @@
         class="footerlogo justify-content-center align-items-center align-self-start flex-column p-4 pt-3"
       >
         <a href="#">
-          <img src="../../../assets/img/FooterLogo.jpg" alt="footerlogo" class="footerlogo mb-2" />
+          <img src="../../assets/img/FooterLogo.jpg" alt="footerlogo" class="footerlogo mb-2" />
         </a>
         <p class="mb-3 white-text">
           ما انواع مختلفی از معابر موجود داریم که اکثریت آنها دچار تغییر شده اند به نوعی با تزریق
