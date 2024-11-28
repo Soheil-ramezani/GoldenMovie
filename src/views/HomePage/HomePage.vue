@@ -6,6 +6,7 @@ import MainHeader from '../../components/header/HomeHeader.vue'
 <!--  -->
 <template>
   <div class="SiteContainer">
+  
     <MainHeader />
     <HomeMain />
     <MainFooter />

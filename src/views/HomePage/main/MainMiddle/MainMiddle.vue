@@ -1,5 +1,5 @@
 <script setup>
-import HomeMovieList from '../MovieList/MovieList.vue'
+import HomeMovieList from '../HomeMovieList/HomeMovieList.vue'
 import MainSidebar from '../SideBar/MainSidebar.vue'
 </script>
 <template>
