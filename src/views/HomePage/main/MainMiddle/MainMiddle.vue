@@ -5,14 +5,14 @@ import MainSidebar from '../SideBar/MainSidebar.vue'
 <template>
   <div class="main">
     <div class="main-index d-flex justify-content-between">
+      <!-- RightSide -->
       <div class="right-side d-inline-block">
-        <section className='site-posts d-block w-100'>
-        <HomeMovieList />
-        </section>
         <section class="site-posts d-block w-100">
-          <MainSidebar />
-        </section>   
+          <HomeMovieList />
+        </section>
       </div>
+      <!-- LeftSide -->
+      <MainSidebar />
     </div>
   </div>
 </template>
