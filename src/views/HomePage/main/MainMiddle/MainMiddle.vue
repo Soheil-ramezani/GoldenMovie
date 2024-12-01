@@ -6,11 +6,7 @@ import MainSidebar from '../SideBar/MainSidebar.vue'
   <div class="main">
     <div class="main-index d-flex justify-content-between">
       <!-- RightSide -->
-      <div class="right-side d-inline-block">
-        <section class="site-posts d-block w-100">
-          <HomeMovieList />
-        </section>
-      </div>
+          <HomeMovieList /> 
       <!-- LeftSide -->
       <MainSidebar />
     </div>
