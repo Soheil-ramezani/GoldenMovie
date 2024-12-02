@@ -17,6 +17,11 @@ const router = createRouter({
       path:'/LogIn',
       name:'LogIn',
       component:()=>import('../views/login/loginForm.vue')
+    },{
+      path:'/Film',
+      name:'Film',
+      component:()=>import('../views/filmPage/FilmPage.vue'),
+      props: true, // Enable props
     }
     // ,{
     //   path:'/UserPanel',

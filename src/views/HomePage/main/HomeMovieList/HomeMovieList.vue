@@ -17,7 +17,7 @@
                   class="notification post-notification rounded-circle d-inline-flex align-items-center justify-content-center"
                   data-post="1444"
                 >
-                  <i class="fa-solid fa-bell plus"></i>
+
                   <i class="fa-solid fa-bell check"></i>
                 </div>
                 <span class="age d-inline-flex text-nowrap">TV-14</span>
@@ -51,7 +51,7 @@
                 </span>
                 <i class="seprator"></i>
                 <div class="info d-inline-block overflow-hidden text-nowrap text-start">
-                  {{ item.time }}
+                   {{ item.time+"دقیقه" }}
                 </div>
               </li>
               <li class="d-flex align-items-center w-100">
@@ -69,6 +69,7 @@
                 <i class="seprator"></i>
                 <div class="info d-inline-block overflow-hidden text-nowrap text-start">
                   <a href="#" target="_blank" rel="category tag">{{ item.genre[0] }}</a>
+                  ,
                   <a href="#" target="_blank" rel="category tag">{{ item.genre[1] }}</a>
                 </div>
               </li>
@@ -148,9 +149,10 @@
                 </span>
                 <i class="seprator"></i>
                 <div class="info d-inline-block overflow-hidden text-nowrap text-start">
-                  <span class="quality-item">480</span>
-                  <span class="quality-item">720</span>
-                  <span class="quality-item">1080</span>
+                  <span class="quality-item" v-if="item.quality[0]">{{ item.quality[0] }}</span>
+                  <span class="quality-item" v-if="item.quality[1]">{{ item.quality[1] }}</span>
+                  <span class="quality-item" v-if="item.quality[2]">{{ item.quality[2] }}</span>
+                  
                 </div>
               </li>
               <li class="d-flex align-items-center w-100">
@@ -197,10 +199,11 @@
               </li>
             </ul>
             <div class="bottom-post d-flex w-100">
-              <a href="../html/single-film.html" class="more d-inline-flex align-items-center"
+              <RouterLink :to="{name:'Film'}"  class="more d-inline-flex align-items-center"
+              
                 >ادامه
-                <span class="d-inline-flex align-items-center h-100">دانلود</span>
-              </a>
+                <span class="d-inline-flex align-items-center h-100" >دانلود</span>
+              </RouterLink>
             </div>
           </div>
           <div class="left-side-post position-relative d-inline-flex align-items-center">
@@ -267,7 +270,6 @@
                     class="watchlist-btn d-inline-flex align-items-center justify-content-center"
                     data-post="1444"
                   >
-                    <i class="fa-solid fa-bookmark light"></i>
                     <i class="fa-solid fa-bookmark solid"></i>
                   </div>
                 </div>
@@ -310,7 +312,7 @@ export default {
           title: 'The Shawshank Redemption',
           isSerial: false,
 
-          time: '142 دقیقه',
+          time: '142',
           year: 1994,
           imdbScore: 9.3,
           country: 'آمریکا',
@@ -332,7 +334,7 @@ export default {
           title: 'The Godfather',
           isSerial: false,
 
-          time: ' 175 دقیقه ',
+          time: ' 175  ',
           year: 1972,
           imdbScore: 9.2,
           country: 'آمریکا',
@@ -354,7 +356,7 @@ export default {
           title: "Schindler's List",
           isSerial: false,
 
-          time: ' 195 دقیقه ',
+          time: ' 195  ',
           year: 1993,
           imdbScore: 9.0,
           country: 'آمریکا',
@@ -398,7 +400,7 @@ export default {
           title: 'Fight Club',
           isSerial: false,
 
-          time: '139 دقیقه ',
+          time: '139  ',
           year: 1999,
           IsTopFilm: true,
           imdbScore: 8.8,
@@ -421,7 +423,7 @@ export default {
           title: '12 Angry Men',
           isSerial: false,
 
-          time: '96 دقیقه ',
+          time: '96  ',
           year: 1957,
           imdbScore: 9,
           IsTopFilm: true,
@@ -443,7 +445,7 @@ export default {
           title: 'Se7en',
           isSerial: false,
 
-          time: ' 127 دقیقه ',
+          time: ' 127  ',
           year: 1995,
           imdbScore: 8.6,
           IsTopFilm: true,
@@ -465,7 +467,7 @@ export default {
           title: 'Gladiator',
           isSerial: false,
 
-          time: '155 دقیقه ',
+          time: '155  ',
           year: 2000,
           imdbScore: 8.5,
           IsTopFilm: true,
@@ -487,7 +489,7 @@ export default {
           title: 'The Silence of the Lambs',
           isSerial: false,
 
-          time: ' 118 دقیقه ',
+          time: ' 118  ',
           year: 1991,
           imdbScore: 8.6,
           IsTopFilm: true,
@@ -509,7 +511,7 @@ export default {
           title: 'The Irishman',
           isSerial: false,
 
-          time: '209 دقیقه ',
+          time: '209  ',
           year: 2019,
           imdbScore: 7.8,
           IsTopFilm: false,
@@ -529,7 +531,7 @@ export default {
           id: 11,
           isSerial: true,
           title: 'Chernobyl',
-          time: '60 دقیقه ',
+          time: '60  ',
           imdbScore: 9.3,
           IsTopseries: true,
           day: 'شنبه',
@@ -552,7 +554,7 @@ export default {
           title: 'Breaking Bad',
           isSerial: true,
 
-          time: '45دقیقه ',
+          time: '45 ',
           imdbScore: 9.5,
           IsTopseries: true,
           day: 'یکشنبه',
@@ -575,7 +577,7 @@ export default {
           title: 'The Sopranos',
           isSerial: true,
 
-          time: '60 دقیقه ',
+          time: '60  ',
           imdbScore: 9.2,
           IsTopseries: true,
           day: 'شنبه',
@@ -598,7 +600,7 @@ export default {
           title: 'The Perfect Couple',
           isSerial: false,
 
-          time: '60 دقیقه ',
+          time: '60  ',
           imdbScore: 6.6,
           IsTopseries: false,
           day: 'دوشنبه',
@@ -621,7 +623,7 @@ export default {
           title: 'Kaos',
           isSerial: false,
 
-          time: '60 دقیقه ',
+          time: '60  ',
           imdbScore: 7.5,
           IsTopseries: false,
           day: 'سه شنبه',
@@ -644,7 +646,7 @@ export default {
           title: 'The Old Man',
           isSerial: false,
 
-          time: '61 دقیقه ',
+          time: '61  ',
           imdbScore: 7.6,
           IsTopseries: false,
           day: 'چهارشنبه',
@@ -666,7 +668,7 @@ export default {
           title: 'Shōgun',
           isSerial: true,
           year: 2024,
-          time: '60 دقیقه ',
+          time: '60  ',
           imdbScore: 8.6,
           IsTopseries: true,
           day: 'پنج شنبه',
@@ -709,7 +711,7 @@ export default {
       if (this.currentPage > 1) {
         this.currentPage--
       }
-    }
+    },
   }
 }
 </script>
