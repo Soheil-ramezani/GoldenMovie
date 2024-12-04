@@ -1,10 +1,10 @@
 <template>
   <main class="main-site">
     <div class="main-single">
-      <!-- moviePoster&infos
-      <section class="movies-h-single  w-100  d-block  position-relative">
+       <!-- moviePoster&infos -->
+      <!-- <section class="movies-h-single  w-100  d-block  position-relative">
           <div class="main-head-cover  w-100  h-100   position-absolute  d-block  overflow-hidden  top-0  end-0">
-            <div  class="head-cover"  style="background-image: url(../images/joker-poster3.jpg);"></div>
+            <div  class="head-cover"  style="background-image: url({{movie.}});"></div>
           </div>
           <div class="main main-h-content">
             <div class="toping-head">
@@ -179,7 +179,7 @@
               </div>
             </div>
           </div>
-        </section> -->
+        </section>  -->
       </div>
   </main>
 </template>
@@ -187,6 +187,7 @@
 <script>
 export default {
   name: 'FilmMain',
+  props:['item']
  
 }
 </script>

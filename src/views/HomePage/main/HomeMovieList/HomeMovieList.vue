@@ -17,7 +17,6 @@
                   class="notification post-notification rounded-circle d-inline-flex align-items-center justify-content-center"
                   data-post="1444"
                 >
-
                   <i class="fa-solid fa-bell check"></i>
                 </div>
                 <span class="age d-inline-flex text-nowrap">TV-14</span>
@@ -51,7 +50,7 @@
                 </span>
                 <i class="seprator"></i>
                 <div class="info d-inline-block overflow-hidden text-nowrap text-start">
-                   {{ item.time+"دقیقه" }}
+                  {{ item.time + 'دقیقه' }}
                 </div>
               </li>
               <li class="d-flex align-items-center w-100">
@@ -152,7 +151,6 @@
                   <span class="quality-item" v-if="item.quality[0]">{{ item.quality[0] }}</span>
                   <span class="quality-item" v-if="item.quality[1]">{{ item.quality[1] }}</span>
                   <span class="quality-item" v-if="item.quality[2]">{{ item.quality[2] }}</span>
-                  
                 </div>
               </li>
               <li class="d-flex align-items-center w-100">
@@ -199,10 +197,11 @@
               </li>
             </ul>
             <div class="bottom-post d-flex w-100">
-              <RouterLink :to="{name:'Film'}"  class="more d-inline-flex align-items-center"
-              
+              <RouterLink
+                :to="{ name: 'Film' , query: { movie: JSON.stringify(item) } }"
+                class="more d-inline-flex align-items-center"
                 >ادامه
-                <span class="d-inline-flex align-items-center h-100" >دانلود</span>
+                <span class="d-inline-flex align-items-center h-100">دانلود</span>
               </RouterLink>
             </div>
           </div>
@@ -711,7 +710,7 @@ export default {
       if (this.currentPage > 1) {
         this.currentPage--
       }
-    },
+    }
   }
 }
 </script>
@@ -722,6 +721,5 @@ export default {
   border: none;
   background: none;
   color: #29b6f6;
-
 }
 </style>
