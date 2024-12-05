@@ -23,11 +23,11 @@ const router = createRouter({
       component:()=>import('../views/filmPage/FilmPage.vue'),
       props: true, // Enable props
     }
-    // ,{
-    //   path:'/UserPanel',
-    //   name:'UserPanel',
-    //   component:()=>import('../views/userPanel/UserPanel.vue')
-    // }
+    ,{
+      path:'/UserPanel',
+      name:'UserPanel',
+      component:()=>import('../views/userPanel/UserPanel.vue')
+    }
     // {
     //   path: '/about',
     //   name: 'about',
