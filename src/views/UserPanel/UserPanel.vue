@@ -3,7 +3,8 @@
 // import CustomMovieList from './UserCustomMovieList/CustomMovieList.vue'
 // import ParticipationPlans from './participation/ParticipationPlans.vue'
 // import UserComments from './UserComments/UserComments.vue'
-import UserTicketsList from './UserTicketsList/UserTicketsList.vue'
+// import UserTicketsList from './UserTicketsList/UserTicketsList.vue'
+import UserNewTicket from './UserNewTicket/UserNewTicket.vue'
 </script>
 <template>
     
@@ -124,7 +125,9 @@ import UserTicketsList from './UserTicketsList/UserTicketsList.vue'
          <!-- <CustomMovieList/> -->
           <!-- <ParticipationPlans/> -->
            <!-- <UserComments/> -->
-            <UserTicketsList/>
+            <!-- <UserTicketsList/> -->
+             <UserNewTicket/>
+             
         </div>
     </main>
   
