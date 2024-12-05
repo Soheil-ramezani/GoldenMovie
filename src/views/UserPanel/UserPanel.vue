@@ -1,5 +1,7 @@
 <script setup>
-import UserDashboard from './userDashboard/UserDashboard.vue'
+// import UserDashboard from './userDashboard/UserDashboard.vue'
+// import CustomMovieList from './UserCustomMovieList/CustomMovieList.vue'
+
 </script>
 <template>
     
@@ -116,7 +118,8 @@ import UserDashboard from './userDashboard/UserDashboard.vue'
             </ul>
           </div>
         </aside>
-        <UserDashboard/>
+        <!-- <UserDashboard/> -->
+         <!-- <CustomMovieList/> -->
 
         </div>
     </main>
