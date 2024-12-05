@@ -7,6 +7,7 @@
 // import UserNewTicket from './UserNewTicket/UserNewTicket.vue'
 // import NewMovieReq from './UserNewMovieReq/UserNewMovieReq.vue'
 // import UserMovieReqList from'./UserMovieReqList/UserMovieReqList.vue'
+import PersonalMovieList from'./UserPersonalMovieList/PersonalMovieList.vue'
 </script>
 <template>
   <main class="main">
@@ -143,6 +144,8 @@
       <!-- <UserNewTicket /> -->
         <!-- <NewMovieReq/> -->
          <!-- <UserMovieReqList/> -->
+          <PersonalMovieList/>
+          
     </div>
   </main>
 </template>
