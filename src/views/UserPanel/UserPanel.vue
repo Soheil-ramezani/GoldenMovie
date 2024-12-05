@@ -5,7 +5,8 @@
 // import UserComments from './UserComments/UserComments.vue'
 // import UserTicketsList from './UserTicketsList/UserTicketsList.vue'
 // import UserNewTicket from './UserNewTicket/UserNewTicket.vue'
-import NewMovieReq from './UserNewMovieReq/UserNewMovieReq.vue'
+// import NewMovieReq from './UserNewMovieReq/UserNewMovieReq.vue'
+// import UserMovieReqList from'./UserMovieReqList/UserMovieReqList.vue'
 </script>
 <template>
   <main class="main">
@@ -140,7 +141,8 @@ import NewMovieReq from './UserNewMovieReq/UserNewMovieReq.vue'
       <!-- <UserTicketsList/> -->
       
       <!-- <UserNewTicket /> -->
-        <NewMovieReq/>
+        <!-- <NewMovieReq/> -->
+         <!-- <UserMovieReqList/> -->
     </div>
   </main>
 </template>
