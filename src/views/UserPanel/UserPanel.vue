@@ -2,7 +2,8 @@
 // import UserDashboard from './userDashboard/UserDashboard.vue'
 // import CustomMovieList from './UserCustomMovieList/CustomMovieList.vue'
 // import ParticipationPlans from './participation/ParticipationPlans.vue'
-import UserComments from './UserComments/UserComments.vue'
+// import UserComments from './UserComments/UserComments.vue'
+import UserTicketsList from './UserTicketsList/UserTicketsList.vue'
 </script>
 <template>
     
@@ -122,7 +123,8 @@ import UserComments from './UserComments/UserComments.vue'
         <!-- <UserDashboard/> -->
          <!-- <CustomMovieList/> -->
           <!-- <ParticipationPlans/> -->
-           <UserComments/>
+           <!-- <UserComments/> -->
+            <UserTicketsList/>
         </div>
     </main>
   
