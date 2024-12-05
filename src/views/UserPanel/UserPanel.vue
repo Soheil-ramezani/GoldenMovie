@@ -1,7 +1,7 @@
 <script setup>
 // import UserDashboard from './userDashboard/UserDashboard.vue'
 // import CustomMovieList from './UserCustomMovieList/CustomMovieList.vue'
-
+// import ParticipationPlans from './participation/ParticipationPlans.vue'
 </script>
 <template>
     
@@ -120,7 +120,7 @@
         </aside>
         <!-- <UserDashboard/> -->
          <!-- <CustomMovieList/> -->
-
+          <!-- <ParticipationPlans/> -->
         </div>
     </main>
   
