@@ -1,4 +1,6 @@
-
+<script setup>
+import UserDashboard from './userDashboard/UserDashboard.vue'
+</script>
 <template>
     
     <main class="main">
@@ -114,7 +116,8 @@
             </ul>
           </div>
         </aside>
-        
+        <UserDashboard/>
+
         </div>
     </main>
   
