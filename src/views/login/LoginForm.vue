@@ -17,7 +17,7 @@
                         class="section text-center d-flex align-items-center justify-content-center flex-column"
                       >
                         <div class="inputbox">
-                          <input type="text" required="required" />
+                          <input type="text" required="required" v-model="Manager" />
                           <span>نام کاربری</span>
                         </div>
                         <div class="inputbox">
@@ -25,7 +25,8 @@
                           <span>رمز ورود</span>
                         </div>
 
-                        <RouterLink :to="{name:'UserPanel'}" class="button mt-4">ثبت</RouterLink>
+                        <RouterLink v-if="this.Manager=='Manager'" :to="{name:'ManagementPanel'}" class="button mt-4">ورود ادمین</RouterLink>
+                        <RouterLink v-else :to="{name:'UserPanel'}" class="button mt-4">ثبت</RouterLink>
                         <p class="mb-0 mt-4 text-center">
                           <a href="#0" class="link">فراموشی رمز ورود</a>
                         </p>
@@ -73,7 +74,8 @@ export default {
   name: 'LogIn',
   data() {
     return {
-      ShowCard: 'Front'
+      ShowCard: 'Front',
+      Manager:''
     }
   },
   methods: {
