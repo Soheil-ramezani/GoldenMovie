@@ -5,7 +5,9 @@
         <div class="row full-height justify-content-center">
           <div class="col-12 text-center align-self-center py-5">
             <div class="section pb-5 pt-5 pt-sm-2 text-center">
-              <h6 class="mb-0 pb-3"><span @click="ShowCards('Front')" >ورود </span><span @click="ShowCards('Back')">ثبت نام</span></h6>
+              <h6 class="mb-0 pb-3">
+                <span :class="{ activeCard: this.ShowCard == 'Front' }" style="cursor: pointer;" @click="ShowCards('Front')" >ورود </span>
+                <span :class="{ activeCard: this.ShowCard == 'Back' }" style="cursor: pointer;"  @click="ShowCards('Back')">ثبت نام</span></h6>
               <div class="card-3d-wrap mx-auto">
                 <div class="card-3d-wrapper">
                   <!-- card-front -->
@@ -77,7 +79,6 @@ export default {
   methods: {
     ShowCards(card) {
       this.ShowCard = card
-      console.log(this.ShowCard)
     }
   }
 }
@@ -118,5 +119,12 @@ h6 span {
 }
 .backdropFilter {
   backdrop-filter: blur(10px);
+}
+.activeCard{
+  background-color: #29b6f6;
+  padding: 5px;
+  color: #c4c3ca;
+  border-radius: 5px;
+  transition: 2s ease-in;
 }
 </style>
