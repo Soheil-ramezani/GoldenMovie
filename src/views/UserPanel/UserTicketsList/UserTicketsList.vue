@@ -28,7 +28,7 @@
                       <td>10#</td>
                       <td class="title">
                         <div class="title-box">
-                          <a  href="./user-panel-ticket-show.html"  class="link-to-ticket"  >thth</a>
+                          <a  href="#"  class="link-to-ticket"  >error</a>
                           <span class="ticket-status pending"  >در انتظار پاسخ</span>
                         </div>
                       </td>
@@ -48,7 +48,7 @@
                       <td>9#</td>
                       <td class="title">
                         <div class="title-box">
-                          <a  href="./user-panel-ticket-show.html"  class="link-to-ticket"  >yjngyt</a>
+                          <a  href="#"  class="link-to-ticket"  >newFilm</a>
                           <span class="ticket-status pending"  >در انتظار پاسخ</span>
                         </div>
                       </td>
