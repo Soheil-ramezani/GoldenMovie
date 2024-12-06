@@ -118,7 +118,7 @@
           </div>
         </h5>
         <p class="white-text">برای دریافت آخرین به روز رسانی و اخبار، در خبرنامه ما مشترک شوید</p>
-        <div class="form w-100">
+        <div class="FooterForm w-100">
           <input type="email" name="userEmail" autocomplete="off" dir="ltr" required />
           <label for="text" class="label-name">
             <span class="content-name white-text w-100"> نشانی ایمیل </span>

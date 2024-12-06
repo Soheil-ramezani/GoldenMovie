@@ -1,4 +1,5 @@
 <script setup>
+import Header from '@/components/header/Header.vue'
 import DashboardPage from './DashBoard/dashboardPage.vue'
 import MovieList from './MovieList/MovieList.vue'
 import AddMovie from "./AddMovie/AddMovie.vue"
@@ -8,7 +9,9 @@ import UsersTickets from "./tickets/UsersTickets.vue"
 
 </script>
 <template>
-  <main class="d-flex flex-lg-row-reverse flex-xl-row-reverse">
+  <div>
+  <Header/>
+  <main dir="ltr" class="d-flex flex-row">
     <!-- sidebar -->
     <div
       ref="sideBar"
@@ -180,6 +183,7 @@ import UsersTickets from "./tickets/UsersTickets.vue"
         <UsersList v-if="ShowingPage=='UsersList'"/>
         <UsersTickets v-if="ShowingPage=='UsersTickets'" />
   </main>
+  </div>
 </template>
 
 <script>

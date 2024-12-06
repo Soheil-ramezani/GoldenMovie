@@ -137,14 +137,14 @@
 		transition: 1s ease-in;
 	  }
 	  /* form */
-	  .form {
+	  .FooterForm {
 		width: 30%;
 		position: relative;
 		height: 60px;
 		overflow: hidden;
 	  }
 	  
-	  .form input {
+	  .FooterForm input {
 		width: 100%;
 		height: 100%;
 		color: #29b6f6;
@@ -152,7 +152,7 @@
 		border: none;
 		background-color: #0a0d14;
 	  }
-	  .form label {
+	  .FooterForm label {
 		position: absolute;
 		bottom: 0px;
 		left: 0px;
@@ -161,7 +161,7 @@
 		pointer-events: none;
 		border-bottom: 1px solid #29b6f6;
 	  }
-	  .form label::after {
+	  .FooterForm label::after {
 		content: "";
 		position: absolute;
 		bottom: -1px;
@@ -184,18 +184,18 @@
 	  .content-name:focus {
 		font-size: medium;
 	  }
-	  .form input:focus {
+	  .FooterForm input:focus {
 		outline: none;
 	  }
-	  .form input:focus + .label-name .content-name,
-	  .form input:valid + .label-name .content-name {
+	  .FooterForm input:focus + .label-name .content-name,
+	  .FooterForm input:valid + .label-name .content-name {
 		transform: translateY(-150%);
 		font-size: 14px;
 		left: 0px;
 		color: #29b6f6;
 	  }
-	  .form input:focus + .label-name::after,
-	  .form input:valid + .label-name::after {
+	  .FooterForm input:focus + .label-name::after,
+	  .FooterForm input:valid + .label-name::after {
 		transform: translateX(0%);
 	  }
 	  .footer-widget-btn {

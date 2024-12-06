@@ -1,17 +1,21 @@
 <script setup>
-// import UserDashboard from './userDashboard/UserDashboard.vue'
-// import CustomMovieList from './UserCustomMovieList/CustomMovieList.vue'
-// import ParticipationPlans from './participation/ParticipationPlans.vue'
-// import UserComments from './UserComments/UserComments.vue'
-// import UserTicketsList from './UserTicketsList/UserTicketsList.vue'
-// import UserNewTicket from './UserNewTicket/UserNewTicket.vue'
-// import NewMovieReq from './UserNewMovieReq/UserNewMovieReq.vue'
-// import UserMovieReqList from'./UserMovieReqList/UserMovieReqList.vue'
-// import PersonalMovieList from'./UserPersonalMovieList/PersonalMovieList.vue'
+import Header from '@/components/header/Header.vue';
+import Footer from '@/components/footer/Footer.vue';
+import UserDashboard from './userDashboard/UserDashboard.vue'
+import CustomMovieList from './UserCustomMovieList/CustomMovieList.vue'
+import ParticipationPlans from './participation/ParticipationPlans.vue'
+import UserComments from './UserComments/UserComments.vue'
+import UserTicketsList from './UserTicketsList/UserTicketsList.vue'
+import UserNewTicket from './UserNewTicket/UserNewTicket.vue'
+import NewMovieReq from './UserNewMovieReq/UserNewMovieReq.vue'
+import UserMovieReqList from'./UserMovieReqList/UserMovieReqList.vue'
+import PersonalMovieList from'./UserPersonalMovieList/PersonalMovieList.vue'
 import UserEditProfile from'./UserEditProfile/UserEditProfile.vue'
 </script>
 <template>
-  <main class="main">
+  <div>
+    <Header/>
+     <main class="main">
     <div class="main-userpanel">
       <aside class="panel-sidebar">
         <div class="sidebar-bg"></div>
@@ -146,10 +150,13 @@ import UserEditProfile from'./UserEditProfile/UserEditProfile.vue'
         <!-- <NewMovieReq/> -->
          <!-- <UserMovieReqList/> -->
           <!-- <PersonalMovieList/> -->
-           <UserEditProfile/>
+           <!-- <UserEditProfile/> -->
           
     </div>
   </main>
+  <Footer/>
+  </div>
+ 
 </template>
 
 <script>

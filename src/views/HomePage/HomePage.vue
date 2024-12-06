@@ -1,15 +1,15 @@
 <script setup>
 import HomeMain from './main/HomeMain.vue'
-import MainFooter from '../../components/footer/HomeFooter.vue'
-import MainHeader from '../../components/header/Header.vue'
+import Footer from '@/components/footer/Footer.vue'
+import Header from '../../components/header/Header.vue'
 </script>
 <!--  -->
 <template>
   <div class="SiteContainer">
   
-    <MainHeader />
+    <Header />
     <HomeMain />
-    <MainFooter />
+    <Footer />
   </div>
 </template>
 
