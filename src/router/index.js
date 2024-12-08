@@ -10,23 +10,31 @@ const router = createRouter({
       component: HomePage
     },
     {
-      path:'/ManagementPanel',
-      name:'ManagementPanel',
-      component:()=> import('../views/ManagePanel/ManagePanel.vue')
-    },{
-      path:'/LogIn',
-      name:'LogIn',
-      component:()=>import('../views/login/loginForm.vue')
-    },{
-      path:'/Film',
-      name:'Film',
-      component:()=>import('../views/filmPage/FilmPage.vue'),
+      path: '/ManagementPanel',
+      name: 'ManagementPanel',
+      component: () => import('../views/ManagePanel/ManagePanel.vue'),
+      beforeEnter: (to, from, next) => {
+        // Check if the user is coming from UserPanel
+        if (from.name === 'User Panel') {
+          next(); // Allow access
+        } else {
+          next({ name: 'User Panel' }); // Redirect to UserPanel if not coming from there
+        }
+      }
+    }, {
+      path: '/LogIn',
+      name: 'LogIn',
+      component: () => import('../views/login/loginForm.vue')
+    }, {
+      path: '/Film',
+      name: 'Film',
+      component: () => import('../views/filmPage/FilmPage.vue'),
       props: true, // Enable props
     }
-    ,{
-      path:'/UserPanel',
-      name:'UserPanel',
-      component:()=>import('../views/userPanel/UserPanel.vue')
+    , {
+      path: '/UserPanel',
+      name: 'UserPanel',
+      component: () => import('../views/userPanel/UserPanel.vue')
     }
     // {
     //   path: '/about',

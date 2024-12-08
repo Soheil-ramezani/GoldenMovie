@@ -110,8 +110,8 @@
                 </div>
               </div>
             </div>
-            <div  class="swiper-slide swiper-slide-visible swiper-slide-active swiper-slide-thumb-active"  style="    width: 1366px;    opacity: 1;    transform: translate3d(5464px, 0px, 0px);    transition-duration: 0ms;  "  role="group"  aria-label="5 / 10">
-              <div class="item">
+            <div  class="swiper-slide swiper-slide-visible swiper-slide-active swiper-slide-thumb-active"  style="    width: 100%;    opacity: 1;    transform: translate3d(5464px, 0px, 0px);    transition-duration: 0ms;  "  role="group"  aria-label="5 / 10">
+              <div class="item ">
                 <div class="full-item-bg"></div>
                 <div class="item-bg">
                   <div  class="bg"  style="    background-image: url(https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/f30ed663-7cfd-492a-8a4e-070946f7f59c-1.jpg);  "></div>
