@@ -25,8 +25,8 @@
                           <span>رمز ورود</span>
                         </div>
 
-                        <RouterLink  :to="{name: 'ManagementPanel'}" v-if="Manager == 'Manager'" class="button mt-4">ورود ادمین</RouterLink>
-                        <RouterLink  :to="{name:'UserPanel'}" v-else class="button mt-4">ثبت</RouterLink>
+                        <RouterLink  to="/ManagementPanel" v-if="Manager == 'Manager'" class="button mt-4">ورود ادمین</RouterLink>
+                        <RouterLink  to="/UserPanel" v-else class="button mt-4">ثبت</RouterLink>
                         <p class="mb-0 mt-4 text-center">
                           <a href="#0" class="link">فراموشی رمز ورود</a>
                         </p>
