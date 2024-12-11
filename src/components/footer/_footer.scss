@@ -2,6 +2,7 @@
 		--primary-blue:#29b6f6;
 		--primary-gray:#131722;
 		--primary-black:#06090f ;
+		--primary-white:#FFFFFF;
 		--text-wite: #e8eaed;
 		--text-gray: #5d6579;
 	  }
@@ -224,6 +225,7 @@
 		border-radius: 50px;
 		background-color: #131722;
 	  }
+	// responsive
 	  @media (max-width: 1024px) {
 		.choose-us-left {
 		  display: none !important;

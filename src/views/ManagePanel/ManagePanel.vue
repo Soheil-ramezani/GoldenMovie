@@ -1,5 +1,4 @@
 <script setup>
-import Header from '@/components/header/Header.vue'
 import DashboardPage from './DashBoard/dashboardPage.vue'
 import MovieList from './MovieList/MovieList.vue'
 import AddMovie from './AddMovie/AddMovie.vue'
@@ -9,7 +8,6 @@ import UsersTickets from './tickets/UsersTickets.vue'
 </script>
 <template>
   <div>
-    <Header />
     <main class="d-flex flex-row">
       <!-- sidebar -->
       <aside

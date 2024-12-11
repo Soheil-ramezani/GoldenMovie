@@ -1,5 +1,5 @@
 <template>
-  <footer dir="rtl" class="p-5 d-flex flex-column justify-content-start align-items-center">
+  <footer dir="rtl" class="footer p-5 d-flex flex-column justify-content-start align-items-center">
     <!-- row1 -->
     <div
       class="footer-row1 d-flex justify-content-start justify-content-sm-around align-items-center flex-row"

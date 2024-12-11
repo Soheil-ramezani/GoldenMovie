@@ -1,35 +1,49 @@
-# p1
 
-This template should help get you started developing with Vue 3 in Vite.
+# GoldenMovie
+GoldenMovie is a website for Download or watch movies/series 
+this website has HomePage,DownloadoPage 
 
-## Recommended IDE Setup
+## Tech Stack
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+**Client:** Vue3,vite, Bootstrap, Sass
 
-## Customize configuration
+**Server:** 
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Run Locally
 
-```sh
-npm install
+Clone the project
+
+```bash
+  git clone  https://github.com/Soheil-ramezani/GoldenMovie
 ```
 
-### Compile and Hot-Reload for Development
+Go to the project directory
 
-```sh
-npm run dev
+```bash
+  cd GoldenMovie
 ```
 
-### Compile and Minify for Production
+Install dependencies
 
-```sh
-npm run build
+```bash
+  npm install
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+Start the server
 
-```sh
-npm run lint
+```bash
+  npm run dev
 ```
+
+
+## Authors
+
+- [Soheil-Ramezanie]()
+-[Erfan-Hosseini](https://github.com/erfanHP390)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
