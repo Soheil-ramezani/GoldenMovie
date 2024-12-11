@@ -13,14 +13,6 @@ const router = createRouter({
       path: '/ManagementPanel',
       name: 'ManagementPanel',
       component: () => import('@/views/ManagePanel/ManagePanel.vue'),
-      beforeEnter: (to, from, next) => {
-        // Check if the user is coming from LogInPage
-        if (from.name == 'LogIn' ) {
-          next(); // Allow access
-        } else {
-          next({ name: 'UserPanel' }); // Redirect to UserPanel if not coming from there
-        }
-      }
     },  {
       path: '/LogIn',
       name: 'LogIn',
