@@ -12,7 +12,7 @@ const router = createRouter({
     {
       path: '/ManagementPanel',
       name: 'ManagementPanel',
-      component: () => import('@/views/ManagePanel/ManagePanel.vue'),
+      component: () => import('../views/ManagePanel/ManagePanel.vue'),
       beforeEnter: (to, from, next) => {
         // Check if the user is coming from LogInPage
         if (from.name == 'LogIn' ) {
@@ -24,7 +24,7 @@ const router = createRouter({
     },  {
       path: '/LogIn',
       name: 'LogIn',
-      component: () => import('@/views/login/LoginForm.vue')
+      component: () => import('../views/login/LoginForm.vue')
     }, {
       path: '/Film',
       name: 'Film',
