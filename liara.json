@@ -1,8 +1,0 @@
-{
-  "app": "goldenmovie",
-  "port": 5173,
-  "build": {
-    "location": "iran"
-  },
-  "disks": []
-}

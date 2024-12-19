@@ -1,4 +1,3 @@
-
 # GoldenMovie
 GoldenMovie is a website for Download or watch movies/series 
 this website has HomePage,DownloadoPage 
@@ -14,6 +13,23 @@ this website has HomePage,DownloadoPage
 
 Clone the project
 
+=======
+# GoldenMovie
+GoldenMovie is a website for Download or watch movies/series 
+this website has HomePage,DownloadoPage 
+
+## Tech Stack
+
+**Client:** Vue3,vite, Bootstrap, Sass
+
+**Server:** 
+
+
+## Run Locally
+
+Clone the project
+
+>>>>>>> 7b6773092b86985196c510676d58165c51858c4b
 ```bash
   git clone  https://github.com/Soheil-ramezani/GoldenMovie
 ```
@@ -47,3 +63,7 @@ Start the server
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7b6773092b86985196c510676d58165c51858c4b
