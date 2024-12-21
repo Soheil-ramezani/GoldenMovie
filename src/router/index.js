@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomePage from '../views/HomePage/HomePage.vue'
+import HomePage from '@/views/HomePage/HomePage.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -12,15 +12,7 @@ const router = createRouter({
     {
       path: '/ManagementPanel',
       name: 'ManagementPanel',
-      component: () => import('../views/ManagePanel/ManagePanel.vue'),
-      beforeEnter: (to, from, next) => {
-        // Check if the user is coming from UserPanel
-        if (from.name === 'User Panel') {
-          next(); // Allow access
-        } else {
-          next({ name: 'User Panel' }); // Redirect to UserPanel if not coming from there
-        }
-      }
+      component: () => import('@/views/ManagePanel/ManagePanel.vue')
     }, {
       path: '/LogIn',
       name: 'LogIn',
@@ -36,14 +28,7 @@ const router = createRouter({
       name: 'UserPanel',
       component: () => import('../views/UserPanel/UserPanel.vue')
     }
-    // {
-    //   path: '/about',
-    //   name: 'about',
-    //   // route level code-splitting
-    //   // this generates a separate chunk (About.[hash].js) for this route
-    //   // which is lazy-loaded when the route is visited.
-    //   component: () => import('../views/AboutView.vue')
-    // }
+    
   ]
 })
 

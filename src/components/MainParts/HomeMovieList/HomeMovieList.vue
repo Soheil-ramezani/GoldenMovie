@@ -198,7 +198,7 @@
             </ul>
             <div class="bottom-post d-flex w-100">
               <RouterLink
-                :to="{ name: 'Film', query: { movie: JSON.stringify(item) } }"
+                :to="{ name: 'Film' ,query: {id:item.title,movie: JSON.stringify(item) } }"
                 class="more d-inline-flex align-items-center"
                 >ادامه
                 <span class="d-inline-flex align-items-center h-100">دانلود</span>

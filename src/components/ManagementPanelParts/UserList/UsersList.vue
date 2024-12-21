@@ -36,8 +36,8 @@ export default {
                 </td>
                 <!-- buttons -->
                  <td class="buttons d-flex flex-row">
-                    <button class="userbtn white-text p-2 pb-3 m-1 d-flex justify-content-center align-items-center"><span>مسدود </span></button>
-                    <button class="userbtn white-text p-2 pb-3 m-1 d-flex justify-content-center align-items-center"> <span>حذف </span></button>
+                    <button class="userbtn white-text p-2 pb-2 m-1 d-flex justify-content-center align-items-center"><span>مسدود </span></button>
+                    <button class="userbtn white-text p-2 pb-2 m-1 d-flex justify-content-center align-items-center"> <span>حذف </span></button>
                  </td>
                  
             </tr>`

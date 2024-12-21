@@ -172,16 +172,16 @@ import Footer from '@/components/footer/Footer.vue'
 </template>
 
 <script>
-import UserDashboard from './userDashboard/UserDashboard.vue'
-import CustomMovieList from './UserCustomMovieList/CustomMovieList.vue'
-import ParticipationPlans from './participation/ParticipationPlans.vue'
-import UserComments from './UserComments/UserComments.vue'
-import UserTicketsList from './UserTicketsList/UserTicketsList.vue'
-import UserNewTicket from './UserNewTicket/UserNewTicket.vue'
-import NewMovieReq from './UserNewMovieReq/UserNewMovieReq.vue'
-import UserMovieReqList from './UserMovieReqList/UserMovieReqList.vue'
-import PrivateMovieList from './UserPrivateMovieList/PrivateMovieList.vue'
-import UserEditProfile from './UserEditProfile/UserEditProfile.vue'
+import UserDashboard from '@/components/UserPanelParts/userDashboard/UserDashboard.vue'
+import CustomMovieList from '@/components/UserPanelParts/UserCustomMovieList/CustomMovieList.vue'
+import ParticipationPlans from '@/components/UserPanelParts/participation/ParticipationPlans.vue'
+import UserComments from '@/components/UserPanelParts/UserComments/UserComments.vue'
+import UserTicketsList from '@/components/UserPanelParts/UserTicketsList/UserTicketsList.vue'
+import UserNewTicket from '@/components/UserPanelParts/UserNewTicket/UserNewTicket.vue'
+import NewMovieReq from '@/components/UserPanelParts/UserNewMovieReq/UserNewMovieReq.vue'
+import UserMovieReqList from '@/components/UserPanelParts/UserMovieReqList/UserMovieReqList.vue'
+import PrivateMovieList from '@/components/UserPanelParts/UserPrivateMovieList/PrivateMovieList.vue'
+import UserEditProfile from '@/components/UserPanelParts/UserEditProfile/UserEditProfile.vue'
 export default {
   name: 'UserPanel',
   data() {

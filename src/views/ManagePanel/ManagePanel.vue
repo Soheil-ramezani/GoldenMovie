@@ -1,10 +1,10 @@
 <script setup>
-import DashboardPage from '@/views/ManagePanel/DashBoard/dashboardPage.vue'
-import MovieList from '@/views/ManagePane/MovieList/MovieList.vue'
-import AddMovie from '@/views/ManagePanel/addMovie/AddMovie.vue'
-import InFoReForm from '@/views/ManagePane/InfoReForm/InfoReForm.vue'
-import UsersList from '@/views/ManagePane/UserList/UsersList.vue'
-import UsersTickets from '@/views/ManagePane/tickets/UsersTickets.vue'
+import DashboardPage from '@/components/ManagementPanelParts/DashBoard/dashboardPage.vue'
+import MovieList from '@/components/ManagementPanelParts/MovieList/MovieList.vue'
+import AddMovie from '@/components/ManagementPanelParts/addMovie/AddMovie.vue'
+import InFoReForm from '@/components/ManagementPanelParts/InfoReForm/InfoReForm.vue'
+import UsersList from '@/components/ManagementPanelParts/UserList/UsersList.vue'
+import UsersTickets from '@/components/ManagementPanelParts/tickets/UsersTickets.vue'
 </script>
 <template>
   <div>
