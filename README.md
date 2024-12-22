@@ -5,7 +5,7 @@ this website has home page , film infos and download page , user panel and  mana
 
 ## Tech Stack
 
-**Client:** Vue3,vite, Bootstrap, Sass
+**Client:** Vue3,vite, Bootstrap, Sass,docker
 
 **Server:**
 
