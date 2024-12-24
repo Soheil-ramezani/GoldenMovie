@@ -24,7 +24,7 @@
                           <input type="text" required="required" />
                           <span>رمز ورود</span>
                         </div>
-                        <RouterLink>ثبت</RouterLink>
+                        <a href="#">ثبت</a>
                         <p class="mb-0 mt-4 text-center">
                           <a href="#0" class="link">فراموشی رمز ورود</a>
                         </p>
@@ -49,7 +49,7 @@
                           <input type="text" required="required" />
                           <span> تکرار رمز ورود</span>
                         </div>
-                        <RouterLink :to="{name:'UserPanel'}" class="button mt-4">ثبت</RouterLink>
+                        <a href="#">ثبت</a>
                         <p class="mb-0 mt-4 text-center">
                           <a href="#0" class="link">فراموشی رمز ورود</a>
                         </p>
