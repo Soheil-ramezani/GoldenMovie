@@ -1,7 +1,7 @@
 # GoldenMovie
 
 GoldenMovie is a website for Download or watch movies or series.
-this website has home page , film infos and download page , user panel and  management panel.
+this website has home page , film infos and download page.
 
 ## Tech Stack
 

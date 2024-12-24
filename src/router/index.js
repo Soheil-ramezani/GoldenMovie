@@ -9,11 +9,7 @@ const router = createRouter({
       name: 'HomePage',
       component: HomePage
     },
-    {
-      path: '/ManagementPanel',
-      name: 'ManagementPanel',
-      component: () => import('@/views/ManagePanel/ManagePanel.vue')
-    }, {
+  , {
       path: '/LogIn',
       name: 'LogIn',
       component: () => import('../views/login/LoginForm.vue')
@@ -23,11 +19,7 @@ const router = createRouter({
       component: () => import('../views/filmPage/FilmPage.vue'),
       props: true, // Enable props
     }
-    , {
-      path: '/UserPanel',
-      name: 'UserPanel',
-      component: () => import('../views/UserPanel/UserPanel.vue')
-    }
+
     
   ]
 })
