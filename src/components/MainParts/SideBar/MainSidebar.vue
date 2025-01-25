@@ -19,31 +19,31 @@
                 <ul class="series-list w-100 d-block">
                   <li>
                     <a  class="item w-100 d-block position-relative overflow-hidden"  href="#"  title="دانلود سریال Sherlock"  rel="bookmark">
-                      <img  class="w-100 h-100 d-block"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/09/176941-g-330x61.jpg"  alt="دانلود سریال Sherlock"/>
+                      <img  class="w-100 h-100 d-block"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwGCiLLovQoTubwk4l0En7nJfut-2mECuZQ&s"  alt="دانلود سریال Sherlock"/>
                       <p  class="desc w-100 d-block position-absolute overflow-hidden text-nowrap">  قسمت 6 فصل 8 اضافه شد</p>
                     </a>
                   </li>
                   <li>
                     <a  class="item w-100 d-block position-relative overflow-hidden" href="#"  title="دانلود سریال Breaking Bad"  rel="bookmark">
-                      <img  class="w-100 h-100 d-block"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/81189-g21-330x61.jpg"  alt="دانلود سریال Breaking Bad"/>
+                      <img  class="w-100 h-100 d-block"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AUQ1ap545wJq1Op_9GPLFAV15boesLoyZA&s"  alt="دانلود سریال Breaking Bad"/>
                       <p  class="desc w-100 d-block position-absolute overflow-hidden text-nowrap">  قسمت 3 فصل 1 اضافه شد</p>
                     </a>
                   </li>
                   <li>
                     <a  class="item w-100 d-block position-relative overflow-hidden"  href="#" title="دانلود سریال Band of Brothers"  rel="bookmark">
-                      <img  class="w-100 h-100 d-block"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/2604-330x61.jpg"  alt="دانلود سریال Band of Brothers"/>
+                      <img  class="w-100 h-100 d-block"  src="https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  alt="دانلود سریال Band of Brothers"/>
                       <p  class="desc w-100 d-block position-absolute overflow-hidden text-nowrap">  قسمت 3 فصل 11 اضافه شد</p>
                     </a>
                   </li>
                   <li>
                     <a  class="item w-100 d-block position-relative overflow-hidden"  href="#"  title="دانلود سریال Better Call Saul"  rel="bookmark">
-                      <img  class="w-100 h-100 d-block"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/273181-g4-330x61.jpg"  alt="دانلود سریال Better Call Saul"/>
+                      <img  class="w-100 h-100 d-block"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimEHbz4Blzqgcu0-qbS9jHLEKoeuxb7VwXg&s"  alt="دانلود سریال Better Call Saul"/>
                       <p  class="desc w-100 d-block position-absolute overflow-hidden text-nowrap">  قسمت 3 فصل 4 اضافه شد</p>
                     </a>
                   </li>
                   <li>
                     <a  class="item w-100 d-block position-relative overflow-hidden"  href="#"  title="دانلود سریال The Boys"  rel="bookmark">
-                      <img  class="w-100 h-100 d-block"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/5f2081dce1c5f-330x61.jpg"  alt="دانلود سریال The Boys"/>
+                      <img  class="w-100 h-100 d-block"  src="https://m.media-amazon.com/images/M/MV5BMWJlN2U5MzItNjU4My00NTM2LWFjOWUtOWFiNjg3ZTMxZDY1XkEyXkFqcGc@._V1_.jpg"  alt="دانلود سریال The Boys"/>
                       <p  class="desc w-100 d-block position-absolute overflow-hidden text-nowrap">  قسمت 5 فصل 4 اضافه شد</p>
                     </a>
                   </li>
@@ -249,7 +249,7 @@
                 <ul class="topmovies-list d-block w-100">
                   <li  class="top-item w-100 d-flex justify-content-between align-items-center">
                     <a  href="#"  class="thumb d-inline-block overflow-hidden">
-                      <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                      <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                     </a>
                     <div  class="content d-inline-block overflow-hidden text-nowrap">
                       <a  class="title d-inline-block"  href="#"  rel="bookmark"  title="The Lord of the Rings"  >The Lord of the Rings</a>
@@ -271,7 +271,7 @@
                   </li>
                   <li  class="top-item w-100 d-flex justify-content-between align-items-center">
                     <a  href="#"  class="thumb d-inline-block overflow-hidden">
-                      <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                      <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                     </a>
                     <div  class="content d-inline-block overflow-hidden text-nowrap">
                       <a  class="title d-inline-block"  href="#"  rel="bookmark"  title="Oppenheimer"  >Oppenheimer</a>
@@ -289,7 +289,7 @@
                   </li>
                   <li  class="top-item w-100 d-flex justify-content-between align-items-center">
                     <a  href="#"  class="thumb d-inline-block overflow-hidden">
-                      <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                      <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BYzg3YWQ1OGEtYjE3MS00MzA0LTg2NDAtZGQ5N2E2Y2Y0MWQ4XkEyXkFqcGc@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                     </a>
                     <div  class="content d-inline-block overflow-hidden text-nowrap">
                       <a  class="title d-inline-block"  href="#"  rel="bookmark"  title="Parasite"  >Parasite</a>
@@ -306,7 +306,7 @@
                   </li>
                   <li  class="top-item w-100 d-flex justify-content-between align-items-center">
                     <a  href="#"  class="thumb d-inline-block overflow-hidden">
-                      <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                      <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BZjc3ZmMzOGMtNjNlNy00N2QyLTk1MDMtYzA0YjY5NzcyNzYwXkEyXkFqcGc@._V1_QL75_UX480_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                     </a>
                     <div  class="content d-inline-block overflow-hidden text-nowrap">
                       <a  class="title d-inline-block"  href="#"  rel="bookmark"  title="Spider-Man: No Way Home"  >Spider-Man: No Way Home</a>
@@ -324,7 +324,7 @@
                   </li>
                   <li  class="top-item w-100 d-flex justify-content-between align-items-center">
                     <a  href="#"  class="thumb d-inline-block overflow-hidden">
-                      <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                      <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                     </a>
                     <div  class="content d-inline-block overflow-hidden text-nowrap">
                       <a  class="title d-inline-block"  href="#"  rel="bookmark"  title="Inception"  >Inception</a>
@@ -362,7 +362,7 @@
                 <ul class="topmovies-list d-block w-100">
                   <li  class="top-item w-100 d-flex justify-content-between align-items-center">
                     <a  href="#"  class="thumb d-inline-block overflow-hidden">
-                      <img  width="207"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BODFhZjAwNjEtZDFjNi00ZTEyLThkNzUtMjZmOWM2YjQwODFmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SX500-207x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block" alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 207px) 100vw, 207px"/>
+                      <img  width="207"  height="310"  src="https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block" alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 207px) 100vw, 207px"/>
                     </a>
                     <div  class="content d-inline-block overflow-hidden text-nowrap">
                       <a  href="#"  rel="bookmark"  title="Breaking Bad"  class="title d-inline-block"  >Breaking Bad</a>
@@ -381,7 +381,7 @@
                   </li>
                   <li  class="top-item w-100 d-flex justify-content-between align-items-center">
                     <a  href="#"  class="thumb d-inline-block overflow-hidden">
-                      <img  width="207"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/09/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_SX500-207x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async" loading="lazy"  sizes="(max-width: 207px) 100vw, 207px"/>
+                      <img  width="207"  height="310"  src="https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async" loading="lazy"  sizes="(max-width: 207px) 100vw, 207px"/>
                     </a>
                     <div  class="content d-inline-block overflow-hidden text-nowrap">
                       <a  href="#"  rel="bookmark"  title="Sherlock"  class="title d-inline-block"  >Sherlock</a>
@@ -399,7 +399,7 @@
                   </li>
                   <li  class="top-item w-100 d-flex justify-content-between align-items-center">
                     <a  href="#"  class="thumb d-inline-block overflow-hidden">
-                      <img  width="206"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_SX500-206x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 206px) 100vw, 206px"/>
+                      <img  width="206"  height="310"  src="https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 206px) 100vw, 206px"/>
                     </a>
                     <div  class="content d-inline-block overflow-hidden text-nowrap">
                       <a  href="#"  rel="bookmark"  title="Money Heist"  class="title d-inline-block"  >Money Heist</a>
@@ -417,7 +417,7 @@
                   </li>
                   <li  class="top-item w-100 d-flex justify-content-between align-items-center">
                     <a  href="#"  class="thumb d-inline-block overflow-hidden">
-                      <img  width="202"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_SX500-202x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 202px) 100vw, 202px"/>
+                      <img  width="202"  height="310"  src="https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 202px) 100vw, 202px"/>
                     </a>
                     <div  class="content d-inline-block overflow-hidden text-nowrap">
                       <a  href="#"  rel="bookmark"  title="Band of Brothers"  class="title d-inline-block"  >Band of Brothers</a>
@@ -435,7 +435,7 @@
                   </li>
                   <li  class="top-item w-100 d-flex justify-content-between align-items-center">
                     <a  href="#"  class="thumb d-inline-block overflow-hidden">
-                      <img  width="210"  height="263"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX500-210x263.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                      <img  width="210"  height="263"  src="https://m.media-amazon.com/images/M/MV5BMWJlN2U5MzItNjU4My00NTM2LWFjOWUtOWFiNjg3ZTMxZDY1XkEyXkFqcGc@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                     </a>
                     <div  class="content d-inline-block overflow-hidden text-nowrap">
                       <a  href="#"  rel="bookmark"  title="The Boys"  class="title d-inline-block"  >The Boys</a>
@@ -471,7 +471,7 @@
                     <div  class="swiper-wrapper"  style="    transition-duration: 0ms;    transform: translate3d(1092px, 0px, 0px);  "  id="swiper-wrapper-a0cf471def17d42b"  aria-live="off">
                       <div  class="swiper-slide"  style="width: 167px; margin-left: 1px"  role="group"  aria-label="1 / 10">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="207"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/09/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_SX500-207x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 207px) 100vw, 207px"/>
+                          <img  width="207"  height="310"  src="https://m.media-amazon.com/images/M/MV5BNDlmMmQyMDgtNDVhMC00MWVkLTkwMmMtZTAwNTU0YmIwZTM5XkEyXkFqcGc@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 207px) 100vw, 207px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -502,7 +502,7 @@
                       </div>
                       <div  class="swiper-slide"  style="width: 167px; margin-left: 1px"  role="group"  aria-label="2 / 10">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BOGU0OWQyMjItYzA4Zi00MDFiLThiZWQtZmEyNWRiODAzYzNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BZTcyZGIyODctZGJhOS00MWUyLWI5ZWEtMjg4YzhkMDczMDBhXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -533,7 +533,7 @@
                       </div>
                       <div  class="swiper-slide"  style="width: 167px; margin-left: 1px"  role="group"  aria-label="3 / 10">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BYzczOWM4MzItMWMyOS00ZDczLWIxMzctNzBmYTgzOTI1MzI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -564,7 +564,7 @@
                       </div>
                       <div  class="swiper-slide"  style="width: 167px; margin-left: 1px"  role="group"  aria-label="4 / 10">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -595,7 +595,7 @@
                       </div>
                       <div  class="swiper-slide"  style="width: 167px; margin-left: 1px"  role="group"  aria-label="5 / 10">
                         <a href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BYWU2MjRjZTYtMjVkMS00MTBjLWFiMTAtYmZlYTk1YjkyMWFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -626,7 +626,7 @@
                       </div>
                       <div  class="swiper-slide"  style="width: 167px; margin-left: 1px"  role="group"  aria-label="6 / 10">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BYWY5YThhOGUtNDU4OS00NTk3LWI0ODQtNmRiYTk0ZjVkZWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -657,7 +657,7 @@
                       </div>
                       <div  class="swiper-slide swiper-slide-prev"  style="width: 167px; margin-left: 1px"  role="group"  aria-label="7 / 10">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BZjI3ZDNlNDAtMmY0OS00ZWU5LThjZTktZGRmMmE3YjllODZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -688,7 +688,7 @@
                       </div>
                       <div  class="swiper-slide swiper-slide-active"  style="width: 167px; margin-left: 1px"  role="group"  aria-label="8 / 10">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BY2RiM2FkNjEtNzZhMS00MmY4LWIyMjUtNWExMzIyNDQ2YjY4XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BYmMzMmIxNzYtYjk3OS00NjBiLTkxNDQtODU3ZDNjN2RiMTIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -719,7 +719,7 @@
                       </div>
                       <div  class="swiper-slide swiper-slide-next"  style="width: 167px; margin-left: 1px"  role="group"  aria-label="9 / 10">
                         <a href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="206"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_SX500-206x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 206px) 100vw, 206px"/>
+                          <img  width="206"  height="310"  src="https://m.media-amazon.com/images/M/MV5BYWUxM2M4ZTgtMjkzZC00YTZlLThhZTMtMDA4Yjg2MDJlNDgxXkEyXkFqcGc@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 206px) 100vw, 206px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -750,7 +750,7 @@
                       </div>
                       <div  class="swiper-slide"  style="width: 167px; margin-left: 1px"  role="group"  aria-label="10 / 10">
                         <a href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="300"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX500-210x300.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="300"  src="https://m.media-amazon.com/images/M/MV5BNzgxNTQzYTEtMDI3Yi00OGQ1LWFkNGMtZDEyM2JlYmE0YzUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 d-block h-100"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -811,7 +811,7 @@
                     <div  class="swiper-wrapper"  style="    transform: translate3d(208px, 0px, 0px);    transition-duration: 0ms;  "  id="swiper-wrapper-10613334ed51bf6810"  aria-live="off">
                       <div  class="swiper-slide"  style="width: 94px; margin-left: 10px"  role="group"  aria-label="1 / 8">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BNzQyNjY2MTItYzMwYi00NDg0LTk3NWItZTRmZmY5OTM5ZGU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div   class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute" >
                               <svg class="icon">
@@ -842,7 +842,7 @@
                       </div>
                       <div  class="swiper-slide swiper-slide-prev"  style="width: 94px; margin-left: 10px"  role="group"  aria-label="2 / 8">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="288"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX500-210x288.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="288"  src="https://m.media-amazon.com/images/M/MV5BYmUzYmJiMDMtZjIxNy00ZjBlLThjZDMtMDA1ZDM4MWMwNmI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -873,7 +873,7 @@
                       </div>
                       <div  class="swiper-slide swiper-slide-active"  style="width: 94px; margin-left: 10px"  role="group"  aria-label="3 / 8">
                         <a  href="#" class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BOTQ2MTcwODgtOTg3Yi00M2RmLWEyMDQtY2IzZmRlYzM3YzhjXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -904,7 +904,7 @@
                       </div>
                       <div  class="swiper-slide swiper-slide-next"  style="width: 94px; margin-left: 10px"  role="group"  aria-label="4 / 8">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -935,7 +935,7 @@
                       </div>
                       <div  class="swiper-slide"  style="width: 94px; margin-left: 10px"  role="group"  aria-label="5 / 8">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="300"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX500-210x300.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="300"  src="https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -966,7 +966,7 @@
                       </div>
                       <div  class="swiper-slide"  style="width: 94px; margin-left: 10px"  role="group"  aria-label="6 / 8">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -997,7 +997,7 @@
                       </div>
                       <div  class="swiper-slide"  style="width: 94px; margin-left: 10px"  role="group"  aria-label="7 / 8">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -1028,7 +1028,7 @@
                       </div>
                       <div  class="swiper-slide"  style="width: 94px; margin-left: 10px"  role="group"  aria-label="8 / 8">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden position-relative">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BM2QyMGUyZTEtMjE4Yi00M2RiLTgwN2QtZDMxZDNiMTFkMTFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -1096,7 +1096,7 @@
                     <div  class="swiper-wrapper d-flex flex-wrap justify-content-between">
                       <div class="swiper-slide d-inline-block">
                         <a href="#"  class="main-item w-100 d-block overflow-hidden">
-                          <img  width="207"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/09/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_SX500-207x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 207px) 100vw, 207px"/>
+                          <img  width="207"  height="310"  src="https://m.media-amazon.com/images/M/MV5BZGE2NmI0NmUtOTViMi00OTI2LWIzNzItOTJlZGJjYzcwYzRlXkEyXkFqcGc@._V1_QL75_UX480_.jpg"  class="attachment-post_cover size-post_cover wp-post-image w-100 h-100 d-block"  alt=""  decoding="async"  sizes="(max-width: 207px) 100vw, 207px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -1127,7 +1127,7 @@
                       </div>
                       <div class="swiper-slide d-inline-block">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden">
-                          <img  width="207"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BODFhZjAwNjEtZDFjNi00ZTEyLThkNzUtMjZmOWM2YjQwODFmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_SX500-207x310.jpg"  class="main-item w-100 d-block overflow-hidden"  alt=""  decoding="async"  sizes="(max-width: 207px) 100vw, 207px"/>
+                          <img  width="207"  height="310"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0FDJ4BcpR1TnaXYkqC2lAf4JG6jedtMJpeg&s"  class="main-item w-100 d-block overflow-hidden"  alt=""  decoding="async"  sizes="(max-width: 207px) 100vw, 207px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -1158,7 +1158,7 @@
                       </div>
                       <div class="swiper-slide d-inline-block">
                         <a  href="#"   class="main-item w-100 d-block overflow-hidden">
-                          <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMTMxOGM0NzItM2E0OS00YWYzLWEzNzUtODUzZTBjM2I4MTZkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX500-210x310.jpg"  class="main-item w-100 d-block overflow-hidden"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BOTJlNzY5OTAtNjIxNi00MTUxLWJkZjEtZDcxYTg2YWY0MjZkXkEyXkFqcGc@._V1_QL75_UX190_CR0,10,190,281_.jpg"  class="main-item w-100 d-block overflow-hidden"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div  class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -1189,7 +1189,7 @@
                       </div>
                       <div class="swiper-slide d-inline-block">
                         <a  href="#"  class="main-item w-100 d-block overflow-hidden">
-                          <img  width="210"  height="263"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX500-210x263.jpg"  class="main-item w-100 d-block overflow-hidden"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
+                          <img  width="210"  height="263"  src="https://m.media-amazon.com/images/M/MV5BMTIzNDUyMjA4MV5BMl5BanBnXkFtZTYwNDc4ODM3._V1_.jpg"  class="main-item w-100 d-block overflow-hidden"  alt=""  decoding="async"  sizes="(max-width: 210px) 100vw, 210px"/>
                           <div class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div  class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">
@@ -1220,7 +1220,7 @@
                       </div>
                       <div class="swiper-slide d-inline-block">
                         <a href="#" class="main-item w-100 d-block overflow-hidden">
-                          <img width="206" height="310" src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_SX500-206x310.jpg" class="main-item w-100 d-block overflow-hidden" alt="" decoding="async" sizes="(max-width: 206px) 100vw, 206px"/>
+                          <img width="206" height="310" src="https://m.media-amazon.com/images/M/MV5BMWRlNDdiYWUtYjE1Zi00OWRhLWJiYTYtZWQ0NWFkYzc0NWMxXkEyXkFqcGc@._V1_.jpg" class="main-item w-100 d-block overflow-hidden" alt="" decoding="async" sizes="(max-width: 206px) 100vw, 206px"/>
                           <div class="img-cover w-100 h-100 position-absolute start-0 top-0">
                             <div class="playicon w-100 h-100 top-0 start-0 d-flex align-items-center justify-content-center position-absolute">
                               <svg class="icon">

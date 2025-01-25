@@ -6,7 +6,7 @@
               <div class="item">
                 <div class="full-item-bg"></div>
                 <div class="item-bg">
-                  <div  class="bg"  style="    background-image: url(https://demo.novinwp.com/digimedia/wp-content/uploads/2024/09/148.jpg);  "></div>
+                  <div  class="bg"  style="    background-image: url(https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg);  "></div>
                 </div>
                 <div class="main item-content">
                   <div class="content">
@@ -33,7 +33,7 @@
               <div class="item">
                 <div class="full-item-bg"></div>
                 <div class="item-bg">
-                  <div  class="bg"  style="    background-image: url(https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/057cd6c5-0cae-41f9-bee1-8daa42625f4d.jpg);  "></div>
+                  <div  class="bg"  style="    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjiU9_k6H_Q5LOm6jxpcd5Y6cMWs_vip4RIQ&s);  "></div>
                 </div>
                 <div class="main item-content">
                   <div class="content">
@@ -60,7 +60,7 @@
               <div class="item">
                 <div class="full-item-bg"></div>
                 <div class="item-bg">
-                  <div  class="bg"  style="    background-image: url(https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/7817c3ab-d85b-4ee4-ac5e-77d24d5b9277-1.jpg);  "></div>
+                  <div  class="bg"  style="    background-image: url(https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2904077/5941951/MOVEB62793__95286.1679588002.jpg?c=2);  "></div>
                 </div>
                 <div class="main item-content">
                   <div class="content">
@@ -87,7 +87,7 @@
               <div class="item">
                 <div class="full-item-bg"></div>
                 <div class="item-bg">
-                  <div  class="bg"  style="    background-image: url(https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/799d8312-4622-4fb5-b0de-a362bb0ddb45-1.jpg);  "></div>
+                  <div  class="bg"  style="    background-image: url(https://townsquare.media/site/442/files/2013/03/iron_man_3_poster_cast.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89);  "></div>
                 </div>
                 <div class="main item-content">
                   <div class="content">
@@ -114,7 +114,7 @@
               <div class="item ">
                 <div class="full-item-bg"></div>
                 <div class="item-bg">
-                  <div  class="bg"  style="    background-image: url(https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/f30ed663-7cfd-492a-8a4e-070946f7f59c-1.jpg);  "></div>
+                  <div  class="bg"  style="    background-image: url(https://cdn.marvel.com/content/1x/ironman3_lob_mas_hlf_01_1.jpg);  "></div>
                 </div>
                 <div class="main item-content">
                   <div class="content">
@@ -141,7 +141,7 @@
               <div class="item">
                 <div class="full-item-bg"></div>
                 <div class="item-bg">
-                  <div  class="bg"  style="    background-image: url(https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/60d4d5a2e3c5e.jpg);  "></div>
+                  <div  class="bg"  style="    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtxUcuoLKzcSgHWqZXNM4cpVlWGee57JGrTQ&s);  "></div>
                 </div>
                 <div class="main item-content">
                   <div class="content">
@@ -168,7 +168,7 @@
               <div class="item">
                 <div class="full-item-bg"></div>
                 <div class="item-bg">
-                  <div  class="bg"  style="    background-image: url(https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/05387a1f-1bf9-4048-8406-be085a83d418.jpg);  "></div>
+                  <div  class="bg"  style="    background-image: url(https://static1.srcdn.com/wordpress/wp-content/uploads/2023/01/better-call-saul-cast-poster.jpg);  "></div>
                 </div>
                 <div class="main item-content">
                   <div class="content">
@@ -195,7 +195,7 @@
               <div class="item">
                 <div class="full-item-bg"></div>
                 <div class="item-bg">
-                  <div  class="bg"  style="    background-image: url(https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/5c266287-075c-418d-8d72-c2b3c849a11b.jpg);  "></div>
+                  <div  class="bg"  style="    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZaIRBCsukAxaBEOZMRH9H9G_yDaVwaY0ow&s);  "></div>
                 </div>
                 <div class="main item-content">
                   <div class="content">
@@ -222,7 +222,7 @@
               <div class="item">
                 <div class="full-item-bg"></div>
                 <div class="item-bg">
-                  <div  class="bg"  style="    background-image: url(https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/728c7daf-2ed9-4324-a058-07d78b7bfb9d-1.jpg);  "></div>
+                  <div  class="bg"  style="    background-image: url(https://wallpapers.com/images/hd/money-heist-cast-poster-i0hmaz980kt99l31.jpg);  "></div>
                 </div>
                 <div class="main item-content">
                   <div class="content">
@@ -249,7 +249,7 @@
               <div class="item">
                 <div class="full-item-bg"></div>
                 <div class="item-bg">
-                  <div  class="bg"  style="    background-image: url(https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/7bc3a90e-ae66-4f4f-9e65-c9e524140b5f-1-1.jpg);  "></div>
+                  <div  class="bg"  style="    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9abqWOFZ9z85OsTPMeMCSKDrfE-WLKZZ6w&s);  "></div>
                 </div>
                 <div class="main item-content">
                   <div class="content">
@@ -290,7 +290,7 @@
                   <a  href="#"  rel="bookmark"  title="Better Call Saul"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMTMxOGM0NzItM2E0OS00YWYzLWEzNzUtODUzZTBjM2I4MTZkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="310"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimEHbz4Blzqgcu0-qbS9jHLEKoeuxb7VwXg&s"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -337,7 +337,7 @@
                   <a  href="#" rel="bookmark"  title="The Boys"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="263"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX500-210x263.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="263"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlTbyyccM4oHPMjGHWoCVQEbHTRVwbk5HGA&s"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -380,7 +380,7 @@
                   <a  href="#"  rel="bookmark"  title="Money Heist"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="206"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_SX500-206x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 206px) 100vw, 206px"/>
+                        <img  width="206"  height="310"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBe4oq546i0NJMD2rOJqLmVvdltM3oklwJ4A&s"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 206px) 100vw, 206px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -423,7 +423,7 @@
                   <a href="#"  rel="bookmark"  title="Evil"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BY2RiM2FkNjEtNzZhMS00MmY4LWIyMjUtNWExMzIyNDQ2YjY4XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BYjkwODM5ZWUtMjI2Ni00Y2RiLWJkNDYtZWQ2ZTRhMjI1N2FmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -466,7 +466,7 @@
                   <a  href="#"  rel="bookmark"  title="Avengers: Endgame"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -503,7 +503,7 @@
                   <a  href="#"  rel="bookmark"  title="Spider-Man 2"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="288"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX500-210x288.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="288"  src="https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -540,7 +540,7 @@
                   <a  href="#"  rel="bookmark"  title="Spider-Man 3"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -577,7 +577,7 @@
                   <a  href="#"  rel="bookmark"  title="Iron Man"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -620,7 +620,7 @@
                   <a href="#"  rel="bookmark"  title="Iron Man 3"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="300"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX500-210x300.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="300"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgmJHmt0tn5W_v_AaN1qdMUe77mW0aREhJ-g&s"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -657,7 +657,7 @@
                   <a  href="#"  rel="bookmark"  title="Joker"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2024/07/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="310"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP7TzsGto_FJI2I9IibPV1GWd--ki-_NAAYQ&s"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -694,7 +694,7 @@
                   <a  href="#"  rel="bookmark"  title="Better Call Saul"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMTMxOGM0NzItM2E0OS00YWYzLWEzNzUtODUzZTBjM2I4MTZkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="310"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimEHbz4Blzqgcu0-qbS9jHLEKoeuxb7VwXg&s"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -737,7 +737,7 @@
                   <a  href="#"  rel="bookmark"  title="The Boys"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="263"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_SX500-210x263.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="263"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYlTbyyccM4oHPMjGHWoCVQEbHTRVwbk5HGA&s"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -780,7 +780,7 @@
                   <a  href="#"  rel="bookmark"  title="Money Heist"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="206"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_SX500-206x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 206px) 100vw, 206px"/>
+                        <img  width="206"  height="310"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBe4oq546i0NJMD2rOJqLmVvdltM3oklwJ4A&s"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 206px) 100vw, 206px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -823,7 +823,7 @@
                   <a  href="#"  rel="bookmark"  title="Evil"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BY2RiM2FkNjEtNzZhMS00MmY4LWIyMjUtNWExMzIyNDQ2YjY4XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BYjkwODM5ZWUtMjI2Ni00Y2RiLWJkNDYtZWQ2ZTRhMjI1N2FmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -866,7 +866,7 @@
                   <a  href="#"  rel="bookmark"  title="Avengers: Endgame"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -903,7 +903,7 @@
                   <a  href="#"  rel="bookmark"  title="Spider-Man 2"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="288"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX500-210x288.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="288"  src="https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -940,7 +940,7 @@
                   <a  href="#"  rel="bookmark"  title="Spider-Man 3"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
@@ -977,7 +977,7 @@
                   <a  href="#"  rel="bookmark"  title="Iron Man"  class="item">
                     <div class="pic">
                       <figure>
-                        <img  width="210"  height="310"  src="https://demo.novinwp.com/digimedia/wp-content/uploads/2022/06/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX500-210x310.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
+                        <img  width="210"  height="310"  src="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_.jpg"  class="attachment-post_cover size-post_cover wp-post-image"  alt=""  decoding="async"  loading="lazy"  sizes="(max-width: 210px) 100vw, 210px"/>
                       </figure>
                       <div  class="cover-content position-absolute top-0 end-0 w-100 h-100">
                         <div  class="playicon w-100 h-100 position-absolute d-flex align-items-center justify-content-center top-0 end-0">
